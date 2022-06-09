@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ajay Laddha an Sr. Software Engineer.
+- 👋 Hi, I’m Ajay Laddha a Sr. Software Engineer.
 - 👀 I’m interested in Application Development, Microservices, Data Processing.
 - 🌱 I’m currently learning GCP, Azure Cloud.
 - 💞️ I’m looking to collaborate on Java, JavaScript, TypeScript Freamwork.
